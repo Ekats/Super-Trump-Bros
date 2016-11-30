@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Super Trump Bros.CSharp.Plugins", "Super Trump Bros.CSharp.Plugins.csproj", "{111A2DAF-CD51-21FC-1442-BBD28B3AADFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Super Trump Bros.CSharp", "Super Trump Bros.CSharp.csproj", "{666149E9-246C-B40B-9AC8-C322A6FF3F3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Super Trump Bros.CSharp.Editor", "Super Trump Bros.CSharp.Editor.csproj", "{1EB9DF06-C2E8-91BA-EB6C-49DED509CF5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{111A2DAF-CD51-21FC-1442-BBD28B3AADFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{111A2DAF-CD51-21FC-1442-BBD28B3AADFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{111A2DAF-CD51-21FC-1442-BBD28B3AADFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{111A2DAF-CD51-21FC-1442-BBD28B3AADFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{666149E9-246C-B40B-9AC8-C322A6FF3F3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{666149E9-246C-B40B-9AC8-C322A6FF3F3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{666149E9-246C-B40B-9AC8-C322A6FF3F3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{666149E9-246C-B40B-9AC8-C322A6FF3F3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EB9DF06-C2E8-91BA-EB6C-49DED509CF5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EB9DF06-C2E8-91BA-EB6C-49DED509CF5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EB9DF06-C2E8-91BA-EB6C-49DED509CF5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EB9DF06-C2E8-91BA-EB6C-49DED509CF5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
